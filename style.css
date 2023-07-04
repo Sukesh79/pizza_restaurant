@@ -507,20 +507,7 @@
     }
 
     .text{
-        margin-bottom:80px;
-        margin-top:-250px;
-    }
-
-    .text>p{
-        margin-left:130px;
-        margin-top:-20px;
-    }
-    .text>h1{
-        margin-top:30px;
-        margin-bottom:-20px;
-    }
-    .para-text, .menu-text{
-        font-size:17px;
+      display:text;
     }
     
 }
